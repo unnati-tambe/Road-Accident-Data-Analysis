@@ -34,5 +34,21 @@ This project is to analyze and visualize road accident data to identify key tren
 
 •  Dashboard Development: Build the dashboard with filters (e.g., weather, road surface), interactive visuals (e.g., pie charts, heatmaps), and clear KPIs to make the data actionable.
 
+## Project Insights
+
+•	Total casualties decreased by 11.9%, with fatal casualties down 33.3%, indicating safety improvements.
+
+•	Cars are the most involved in accidents, followed by vans and bikes.
+
+•	Most accidents occur on single carriageways and during the daytime.
+
+•	Urban areas account for over 60% of casualties.
+
+•	Casualties peak in November and December, suggesting seasonal influence.
+
+
+
+
+
 
 
