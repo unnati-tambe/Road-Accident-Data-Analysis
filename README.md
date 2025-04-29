@@ -21,3 +21,4 @@ This project is to analyze and visualize road accident data to identify key tren
 
 ## Dashboard Interaction
 
+Screenshot (13).png
