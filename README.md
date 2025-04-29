@@ -25,8 +25,14 @@ This project is to analyze and visualize road accident data to identify key tren
 
 ## Process
 •  Data Collection: Gather road accident data from official sources including details like casualties, locations, vehicle types, and road conditions.
+
 •  Data Cleaning & Preparation: Clean the data to remove errors, handle missing values, and standardize formats for accurate analysis by using power query editor.
+
 •  Data Analysis: Perform exploratory data analysis (EDA) to identify patterns, trends, and correlations (e.g., accidents by month, road type, vehicle).
+
 •  Visualization Design: Choose key metrics (e.g., total casualties, accident severity, location density) and design visuals like charts, graphs, and maps using a Power BI tool.
+
 •  Dashboard Development: Build the dashboard with filters (e.g., weather, road surface), interactive visuals (e.g., pie charts, heatmaps), and clear KPIs to make the data actionable.
+
+
 
