@@ -21,4 +21,4 @@ This project is to analyze and visualize road accident data to identify key tren
 
 ## Dashboard Interaction
 
-https://github.com/unnati-tambe/Road-Accident-Data-Analysis/blob/main/Screenshot%20(13).png
+![Screenshot (13)](https://github.com/user-attachments/assets/faac1217-d917-4a42-9eac-3edf646acb4d)
