@@ -18,3 +18,6 @@ This project is to analyze and visualize road accident data to identify key tren
 •	Current Year Casualties by Area/ Location & by Day/Night
 
 •	Total Casualties and Total Accidents by Location
+
+## Dashboard Interaction
+
